@@ -18,7 +18,7 @@ $d(\textit{Pattern},\textit{Dna}) = \sum\limits_{i=1}^t d(\textit{Pattern},\text
 
 &nbsp;&nbsp;&nbsp;&nbsp; ${ \color{green} Given}$ : *An integer k and a collection of strings* $D_{na}$ *.*
  
-&nbsp;&nbsp;&nbsp;&nbsp; ${ \color{green} Return}$  *A k-mer Pattern that minimizes* $d(Pattern, D_{na})$ *over all k-mers Pattern. (If multiple answers exist, you may return any   
+&nbsp;&nbsp;&nbsp;&nbsp; ${ \color{green} Return}$ : *A k-mer Pattern that minimizes* $d(Pattern, D_{na})$ *over all k-mers Pattern. (If multiple answers exist, you may return any   
 &nbsp;&nbsp;&nbsp;&nbsp; one.)*
 
 **Sample Dataset**
