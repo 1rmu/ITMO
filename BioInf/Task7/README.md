@@ -1,6 +1,6 @@
 # Implement the Viterbi Algorithm
 
-***Task in rozalind.info #ba10c***
+***Task [Rosalind #ba10c](https://rosalind.info/problems/ba10c/)***
 
 **Decoding Problem**
 
