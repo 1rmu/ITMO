@@ -1,6 +1,6 @@
 # Find a Median String
 
-***Task in rozalind.info #ba2b***
+***Task in [Rosalind](https://rosalind.info/) #ba2b***
 
 *Given a k-mer Pattern and a longer string Text, we use d(Pattern, Text) to denote the minimum Hamming distance between Pattern and any k-mer in Text,*
 
