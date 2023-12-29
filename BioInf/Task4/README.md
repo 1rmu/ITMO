@@ -1,6 +1,6 @@
 # Align Two Strings Using Affine Gap Penalties
 
-***Task in rozalind.info #ba5j***
+***Task [Rosalind #ba5j](https://rosalind.info/problems/ba5j/)***
 
 A **gap** is a contiguous sequence of spaces in a row of an alignment. One way to score gaps more appropriately is to define an **affine penalty** for a gap of length k as σ + ε · (k − 1), 
 where σ is the **gap opening penalty**, assessed to the first symbol in the gap, and ε is the **gap extension penalty**, assessed to each additional symbol in the gap. We typically select ε 
