@@ -1,6 +1,6 @@
 # Reconstruct a String from its Paired Composition 
 
-***Task in rozalind.info #ba3j***
+***Task [Rosalind #ba3j](https://rosalind.info/problems/ba3j/)***
 
 Since increasing read length presents a difficult experimental problem, biologists have suggested an indirect way of increasing read length by generating **read-pairs**, which are pairs of reads 
 separated by a fixed distance d in the genome.
