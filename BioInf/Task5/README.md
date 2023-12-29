@@ -1,6 +1,6 @@
 # Find a Shortest Transformation of One Genome into Another by 2-Breaks
 
-***Task in rozalind.info #ba6d***
+***Task [Rosalind #ba6d](https://rosalind.info/problems/ba6d/)***
 
 **2-Break Sorting Problem**
 
