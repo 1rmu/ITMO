@@ -1,4 +1,4 @@
-# Find a Shortest Transformation of One Genome into Another by 2-Breaks**
+# Find a Shortest Transformation of One Genome into Another by 2-Breaks
 
 ***Task in rozalind.info #ba6d***
 
