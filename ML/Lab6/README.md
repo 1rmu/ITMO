@@ -9,24 +9,24 @@
 
 *График Accuracy от количества эпох. MNIST*
 
-[MNISTAcc](./img/AccMNIST.png)
+![MNISTAcc](./img/AccMNIST.png)
 
 *Матрица неточнностей. MNIST*
 
-[MNISTTrue](./img/TrueLabelMNIST.png)
+![MNISTTrue](./img/TrueLabelMNIST.png)
 
 *Матрица схожих элементов. MNIST*
 
-[MNISTMax](./img/MaxMNIST.png)
+![MNISTMax](./img/MaxMNIST.png)
 
 *График Accuracy от количества эпох. Fashion-MNIST*
 
-[FMNISTAcc](./img/AccFMNIST.png)
+![FMNISTAcc](./img/AccFMNIST.png)
 
 *Матрица неточнностей. Fashion-MNIST*
 
-[FMNISTTrue](./img/TrueLabelFMNIST.png)
+![FMNISTTrue](./img/TrueLabelFMNIST.png)
 
 *Матрица схожих элементов. Fashion-MNIST*
 
-[FMNISTMax](./img/MaxFMNIST.png)
+![FMNISTMax](./img/MaxFMNIST.png)
