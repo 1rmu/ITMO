@@ -3,7 +3,7 @@
 **Generative Models
 ITMO University, Autumn 2022, MSc course**
 
-The author of the project structure and mentore by Arip Asadulaev & Manh Lab ITMO
+My mentor and the author of the structure of the work is Arip Asadulaev & Manh Lab ITMO
 
 
 In 2014, Ian Goodfellow and his colleagues at the University of Montreal published a stunning paper introducing the world to GANs, or generative adversarial networks. The models play two 
