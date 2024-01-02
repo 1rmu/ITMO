@@ -1,6 +1,6 @@
 # Метрики качества генерации
 
-ITMO University, Autumn 2022, MSc course**
+ITMO University, Autumn 2022, MSc course
 
 My mentor and the author of the structure of the work is Arip Asadulaev & Manh Lab ITMO
 
